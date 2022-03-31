@@ -1381,11 +1381,14 @@
       "country": "France"
     }
   ],
-  "wishlist": [
+  "cartlist": [
     {
       "id": "1",
+      "productID": "1",
       "name": "Gyroscope solar system",
-      "src": "https://raw.githubusercontent.com/tuanthanh184/shoponline/image/image/products/Toy/gss2.jpg"
+      "src": "https://raw.githubusercontent.com/tuanthanh184/shoponline/image/image/products/Toy/gss2.jpg",
+      "quantity": "4",
+      "price": "300"
     }
   ]
 }
